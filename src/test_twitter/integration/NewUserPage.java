@@ -24,7 +24,7 @@ public class NewUserPage extends javax.swing.JFrame {
      */
     
     
-    
+    //This is a test comment. 
     public NewUserPage() {
         initComponents();
     }
