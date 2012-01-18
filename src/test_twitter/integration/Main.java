@@ -15,6 +15,7 @@ public class Main {
         checkFileExistence();
         HomePage form = new HomePage();
         form.setVisible(true);
+        //This is another comment to test git. 
     }
 
     private static void checkFileExistence() throws IOException {
